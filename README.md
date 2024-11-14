@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨<br>📚 I'm currently learning Java/Springboot <br>🎯 Goals: a JOB.<br>🎲.</p>
+<p align="left">✨<br>📚 I'm currently learning Exploit. <br>🎯 Goals: a vulnerability.<br>🎲.</p>
 
 ###
 
