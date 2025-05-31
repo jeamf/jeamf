@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jean and I'm an Information Security Analyst.</p>
+<p align="left">My name is Jean and I'm Cybersecurity Analyst.</p>
 
 ###
 
