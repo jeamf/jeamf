@@ -1,46 +1,53 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Jean Fogaça 👋
 
-###
+### Information Security Analyst | Incident Response · SOC · SIEM
 
-<p align="left">My name is Jean and I'm Cybersecurity Analyst.</p>
+I work in a **global 24/7 SOC**, focused on the full incident response cycle — from detection and triage to investigation, containment, and lessons learned. I came into security from a software development background, which means I don't just analyze alerts: I build the automation and tooling that make detection and response faster.
 
-###
+📍 São Paulo, Brazil
 
-<h2 align="left">About me</h2>
+---
 
+## 🔧 What I work with
 
-###
+**Incident Response** — full IR lifecycle, alert investigation, containment, post-incident documentation
+**Frameworks** — MITRE ATT&CK · NIST
+**SIEM & Detection** — Cloud SIEM, log correlation & analysis, detection engineering, rule tuning
+**Threat Intelligence** — IOC enrichment & analysis (AlienVault OTX)
+**Cloud** — AWS (CloudTrail, S3, GuardDuty)
+**Automation & Scripting** — Python · Bash · Power Automate
 
-<p align="left">✨<br>📚 I'm currently learning Exploit. <br>🎯 Goals: a vulnerability.<br>🎲.</p>
+---
 
-###
+## 📌 Featured Projects
 
-<h2 align="left">I code with</h2>
+### 🛡️ Sigma Rule Conversion Pipeline
+A pipeline for converting [Sigma](https://github.com/SigmaHQ/sigma) detection rules into formats usable by SIEMs **without native Sigma support**. Built to bridge the gap between community detection content and platforms that can't consume Sigma directly.
+> `Python` · `Detection Engineering` · `SIEM`
+> 🔗 *Repo coming soon*
 
-###
+### 🔍 Detection Engineering Lab & Investigation Write-up
+A hands-on home lab where I ingest logs into a SIEM, build detection rules mapped to **MITRE ATT&CK**, and document a full investigation — from the initial alert to containment and lessons learned.
+> `SIEM` · `MITRE ATT&CK` · `Incident Response`
+> 🔗 *Write-up coming soon*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+### 🌐 IOC Enrichment Automation (AlienVault OTX)
+A Python tool that enriches indicators of compromise using AlienVault OTX threat intelligence, designed to plug into a SOC triage workflow.
+> `Python` · `Threat Intelligence` · `Automation`
+> 🔗 *Repo coming soon*
 
-###
+---
 
-<h2 align="left">Social</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/jean-fogaca/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## 🎓 Education & Certifications
 
-###
+- **Postgraduate Specialization in Cybersecurity** — Centro Universitário FACENS *(expected Dec 2026)*
+- **Technologist in Systems Analysis and Development** — Mackenzie
+- Currently working toward **Microsoft Security certifications**
 
+---
 
+## 📫 Connect
 
-
-###
+- 💼 [LinkedIn](https://linkedin.com/in/jean-fogaca)
+- ✍️ Medium — *write-ups coming soon*
+- 📧 fogacamkt@gmail.com
