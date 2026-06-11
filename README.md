@@ -29,7 +29,7 @@ A pipeline for converting [Sigma](https://github.com/SigmaHQ/sigma) detection ru
 ### 🔍 Detection Engineering Lab & Investigation Write-up
 A hands-on home lab where I ingest logs into a SIEM, build detection rules mapped to **MITRE ATT&CK**, and document a full investigation — from the initial alert to containment and lessons learned.
 > `SIEM` · `MITRE ATT&CK` · `Incident Response`
-> 🔗 *Write-up coming soon*
+> 🔗 [github.com/jeamf/ir-writeups](https://github.com/jeamf/ir-writeups)
 
 ### 🌐 IOC Enrichment Automation (AlienVault OTX)
 A Python tool that enriches indicators of compromise using AlienVault OTX threat intelligence, designed to plug into a SOC triage workflow.
