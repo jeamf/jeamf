@@ -24,7 +24,7 @@ I work in a **global 24/7 SOC**, focused on the full incident response cycle —
 ### 🛡️ Sigma Rule Conversion Pipeline
 A pipeline for converting [Sigma](https://github.com/SigmaHQ/sigma) detection rules into formats usable by SIEMs **without native Sigma support**. Built to bridge the gap between community detection content and platforms that can't consume Sigma directly.
 > `Python` · `Detection Engineering` · `SIEM`
-> 🔗 *Repo coming soon*
+> 🔗 [github.com/jeamf/sigma-wazuh-converter](https://github.com/jeamf/sigma-wazuh-converter)
 
 ### 🔍 Detection Engineering Lab & Investigation Write-up
 A hands-on home lab where I ingest logs into a SIEM, build detection rules mapped to **MITRE ATT&CK**, and document a full investigation — from the initial alert to containment and lessons learned.
